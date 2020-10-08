@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+We are Artbees, one of the UK's leading creative companies consisting of creatives from a wide variety of backgrounds, we develop intelligent applications that meet specific business challenges for your industry. Our head office is located in London, host of the world's largest tech hub. Since 2006, Artbees Limited. has leveraged its software engineering expertise to become a leading global product development, digital platform engineering, and top digital and product design agency.
 
-You can use the [editor on GitHub](https://github.com/artbees/artbees.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We have established a global reputation through our success in B2B, B2C and B2G. We modernise IT, optimise data architectures, and make everything secure, scalable and orchestrated across public, private and hybrid clouds. We combine years of experience running mission-critical systems with the latest digital innovations to deliver better business outcomes and new levels of performance, competitiveness and experiences for our customers and their stakeholders. There are three fundamental things we concentrate on to deliver this transformation: “people, process, and technology”.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We provide, implement and manage your bespoke solution to improve efficiency, accuracy, productivity and results for businesses in a multitude of different industries including wholesale distribution; manufacturing; retail; publishing; education; healthcare; travel and entertainment and professional services industries.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/artbees/artbees.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We work with tech corporations on solving complex problems of scale which are sometimes unique to our clients. Our expertise lies in resolving problems, coding, algorithms, complexity analysis, and large-scale custom design. As a Google Cloud Partner, we help clients develop digital solutions that enable their companies with the benefits of AI, ML and cloud technology. Artbees works in collaboration with its clients to deliver next-gen solutions that turn complicated business challenges into real business results.
